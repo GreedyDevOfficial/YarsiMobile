@@ -11,3 +11,5 @@ export 'post/post_media_screen.dart';
 export 'location/location_picker_screen.dart';
 export 'navigation/nav_screen.dart';
 export 'favorites/favorites_screen.dart';
+export 'explore/explore_screen.dart';
+export 'explore/components/explore_search.dart';
