@@ -5,7 +5,7 @@ import 'package:yarsi/components/form_error.dart';
 import 'package:yarsi/config/constants.dart';
 import 'package:yarsi/config/palette.dart';
 import 'package:yarsi/screens/screens.dart';
-import 'package:yarsi/widgets/default_button.dart';
+import 'package:yarsi/widgets/button/default_button.dart';
 
 
 class SignForm extends StatefulWidget {

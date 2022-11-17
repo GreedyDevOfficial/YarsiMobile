@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:yarsi/config/palette.dart';
+import 'package:yarsi/data/data.dart';
 import 'package:yarsi/widgets/widgets.dart';
 
 

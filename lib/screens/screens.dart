@@ -13,3 +13,8 @@ export 'navigation/nav_screen.dart';
 export 'favorites/favorites_screen.dart';
 export 'explore/explore_screen.dart';
 export 'explore/components/explore_search.dart';
+export 'explore/components/explore_view_more.dart';
+export 'home/home_screen.dart';
+export 'coins/coins_screen.dart';
+export 'messages/message_screen.dart';
+export 'chats/chat_screen.dart';

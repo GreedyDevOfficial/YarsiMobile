@@ -8,4 +8,6 @@ final Map<String, WidgetBuilder> routes = {
   ForgetPasswordScreen.routeName : (context) => ForgetPasswordScreen(),
   NewPasswordScreen.routeName : (context) => NewPasswordScreen(),
   UpgradeScreen.routeName : (context) => UpgradeScreen(),
+  CoinsScreen.routeName : (context) => CoinsScreen(),
+  ChatScreen.routeName : (context) => ChatScreen()
 };

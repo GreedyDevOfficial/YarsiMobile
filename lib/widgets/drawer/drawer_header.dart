@@ -3,17 +3,17 @@ import 'package:flutter/material.dart';
 import 'package:yarsi/config/palette.dart';
 import 'package:yarsi/models/models.dart';
 
-class DrawerHeader extends StatefulWidget {
+class MyDrawerHeader extends StatefulWidget {
 
   final Post post;
 
-  const DrawerHeader({Key? key, required this.post}) : super(key: key);
+  const MyDrawerHeader({Key? key, required this.post}) : super(key: key);
 
   @override
-  State<DrawerHeader> createState() => _DrawerHeaderState();
+  State<MyDrawerHeader> createState() => _MyDrawerHeaderState();
 }
 
-class _DrawerHeaderState extends State<DrawerHeader> {
+class _MyDrawerHeaderState extends State<MyDrawerHeader> {
 
   String dropdownvalue = 'کاربر معمولی';
   var items =  ['کاربر معمولی','فروشگاه', 'بازارچه'];
